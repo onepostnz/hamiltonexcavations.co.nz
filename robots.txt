@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamiltonexcavations.co.nz/sitemap.xml
